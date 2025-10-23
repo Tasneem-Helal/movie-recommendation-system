@@ -53,5 +53,5 @@ Develop a recommendation system to suggest movies to users, evaluate performance
 
 ## Author
 **Tasneem Helal**  
-Mechatronics Engineer | Machine Learning & Recommender Systems Enthusiast  
+Mechatronics Engineer | Machine Learning Enthusiast  
 [LinkedIn](https://linkedin.com/in/tasneemhelal) | [GitHub](https://github.com/Tasneem-Helal)
