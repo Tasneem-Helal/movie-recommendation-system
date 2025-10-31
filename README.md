@@ -37,8 +37,8 @@ Develop a recommendation system to suggest movies to users, evaluate performance
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-name>
+   git clone https://github.com/Tasneem-Helal/movie-recommendation-system.git
+   cd movie-recommendation-system/src
    ```
 2. Install dependencies:
    ```bash
