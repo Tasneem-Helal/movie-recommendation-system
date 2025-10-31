@@ -45,9 +45,7 @@ Develop a recommendation system to suggest movies to users, evaluate performance
    pip install -r ../requirements.txt
    ```
 3. Run the notebook:
-   ```bash
-   jupyter notebook src/movie_recommendation_system.ipynb
-   ```
+   > Open `movie_recommendation_system.ipynb` from the `src` folder and execute the cells sequentially.
 
 ---
 
