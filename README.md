@@ -42,7 +42,7 @@ Develop a recommendation system to suggest movies to users, evaluate performance
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r ../requirements.txt
    ```
 3. Run the notebook:
    ```bash
